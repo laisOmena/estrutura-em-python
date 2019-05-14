@@ -1,6 +1,7 @@
 from collections import deque
 
 d = deque()
+
 d.extend('raiar')
 
 def palin(d):
